@@ -1,2 +1,1 @@
-hoge
-これから頑張るぞ～
+hogehoge
